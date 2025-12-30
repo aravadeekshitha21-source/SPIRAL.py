@@ -1,0 +1,1 @@
+This project demonstrates how to generate beautiful spiral patterns using Python’s turtle module. The turtle graphics library provides a simple and engaging environment to create shapes and designs, making it perfect for learning basic programming and computational thinking.
